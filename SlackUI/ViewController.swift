@@ -56,16 +56,13 @@ extension ViewController: UITextFieldDelegate {
         var countDot : Int = 0
         
         if finalText.length == 0 {
-            showStatus = .showFullName
+            placehoderLabel.text = "workspace-Url.slack.com"
         }else{
             if let firstString : String = textField.text {
                 
                 let realString  = firstString.appendingFormat("%@", string)
                 let textArray = realString.split(separator: ".")
                 
-                print(textArray)
-                print(textArray.count)
-
                 for character in realString {
                     
                     if character == "." {
@@ -75,6 +72,9 @@ extension ViewController: UITextFieldDelegate {
             }
         }
 
+        
+        //test
+        
         if countDot == 0 {
             placehoderLabel.text = ".slack.com"
         }else if countDot == 1{
