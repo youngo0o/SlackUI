@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "69847ef68f5fe79ce594adee24ff376c"
+build_time: [1569896390, 384458000]
+inputs:
+  "/Users/Adan/Desktop/SlackUI/SlackUI/ViewController.swift": [1569896389, 980430908]
+  "/Users/Adan/Desktop/SlackUI/SlackUI/AppDelegate.swift": [1569893750, 670190882]

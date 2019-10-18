@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0DE10DAA-990E-47A9-BC77-E6557F733C77</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0DE10DAA-990E-47A9-BC77-E6557F733C77.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SlackUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SlackUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SlackUI</string>
+			<key>timeStartedRecording</key>
+			<real>591588645.66046405</real>
+			<key>timeStoppedRecording</key>
+			<real>591588649.707075</real>
+			<key>title</key>
+			<string>Build SlackUI</string>
+			<key>uniqueIdentifier</key>
+			<string>0DE10DAA-990E-47A9-BC77-E6557F733C77</string>
+		</dict>
+		<key>32C39113-691B-4261-B365-78E5742A186E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>32C39113-691B-4261-B365-78E5742A186E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SlackUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SlackUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean SlackUI</string>
+			<key>timeStartedRecording</key>
+			<real>591586931.82868803</real>
+			<key>timeStoppedRecording</key>
+			<real>591586932.07023096</real>
+			<key>title</key>
+			<string>Clean SlackUI</string>
+			<key>uniqueIdentifier</key>
+			<string>32C39113-691B-4261-B365-78E5742A186E</string>
+		</dict>
+		<key>56D1255F-CCF6-4726-8BBE-1B7602711E64</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>56D1255F-CCF6-4726-8BBE-1B7602711E64.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SlackUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SlackUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SlackUI</string>
+			<key>timeStartedRecording</key>
+			<real>591586645.05336905</real>
+			<key>timeStoppedRecording</key>
+			<real>591586645.32578194</real>
+			<key>title</key>
+			<string>Build SlackUI</string>
+			<key>uniqueIdentifier</key>
+			<string>56D1255F-CCF6-4726-8BBE-1B7602711E64</string>
+		</dict>
+		<key>8D151596-3468-4905-BBE0-F1F5F766E3DA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8D151596-3468-4905-BBE0-F1F5F766E3DA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SlackUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SlackUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SlackUI</string>
+			<key>timeStartedRecording</key>
+			<real>591588122.611467</real>
+			<key>timeStoppedRecording</key>
+			<real>591588132.52544999</real>
+			<key>title</key>
+			<string>Build SlackUI</string>
+			<key>uniqueIdentifier</key>
+			<string>8D151596-3468-4905-BBE0-F1F5F766E3DA</string>
+		</dict>
+		<key>9F1D67F5-D7BD-440D-A912-AD0CB0948733</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9F1D67F5-D7BD-440D-A912-AD0CB0948733.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SlackUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SlackUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SlackUI</string>
+			<key>timeStartedRecording</key>
+			<real>591589101.88880599</real>
+			<key>timeStoppedRecording</key>
+			<real>591589105.76462805</real>
+			<key>title</key>
+			<string>Build SlackUI</string>
+			<key>uniqueIdentifier</key>
+			<string>9F1D67F5-D7BD-440D-A912-AD0CB0948733</string>
+		</dict>
+		<key>A669BFD2-C920-4D2C-812E-CFE81377EAEA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A669BFD2-C920-4D2C-812E-CFE81377EAEA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SlackUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SlackUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SlackUI</string>
+			<key>timeStartedRecording</key>
+			<real>591586655.94250095</real>
+			<key>timeStoppedRecording</key>
+			<real>591586680.55977201</real>
+			<key>title</key>
+			<string>Build SlackUI</string>
+			<key>uniqueIdentifier</key>
+			<string>A669BFD2-C920-4D2C-812E-CFE81377EAEA</string>
+		</dict>
+		<key>C4E2D98F-D2E1-48D6-811E-00CF74F0873C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C4E2D98F-D2E1-48D6-811E-00CF74F0873C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SlackUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SlackUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SlackUI</string>
+			<key>timeStartedRecording</key>
+			<real>591589190.33275902</real>
+			<key>timeStoppedRecording</key>
+			<real>591589193.68042696</real>
+			<key>title</key>
+			<string>Build SlackUI</string>
+			<key>uniqueIdentifier</key>
+			<string>C4E2D98F-D2E1-48D6-811E-00CF74F0873C</string>
+		</dict>
+		<key>E0F4D1ED-34BC-4927-803F-64789A5F97A1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E0F4D1ED-34BC-4927-803F-64789A5F97A1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SlackUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SlackUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SlackUI</string>
+			<key>timeStartedRecording</key>
+			<real>591586703.33015895</real>
+			<key>timeStoppedRecording</key>
+			<real>591586705.05008495</real>
+			<key>title</key>
+			<string>Build SlackUI</string>
+			<key>uniqueIdentifier</key>
+			<string>E0F4D1ED-34BC-4927-803F-64789A5F97A1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
