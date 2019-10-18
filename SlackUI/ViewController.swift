@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         var cs = CharacterSet.lowercaseLetters
         cs.insert(charactersIn: "0123456789")
         cs.insert(charactersIn: "-")
+        cs.insert(charactersIn: ".")
         return cs.inverted
     }()
     
@@ -51,12 +52,37 @@ extension ViewController: UITextFieldDelegate {
         let width = finalText.size(withAttributes: dict).width
         placehoderLeadingConstraint.constant = width
         
-        if finalText.length == 0 {
-            placehoderLabel.text = "workspace-url.slack.com"
-        }else{
-            placehoderLabel.text = ".slack.com"
-        }
         
+        var countDot : Int = 0
+        
+        if finalText.length == 0 {
+            showStatus = .showFullName
+        }else{
+            if let firstString : String = textField.text {
+                
+                let realString  = firstString.appendingFormat("%@", string)
+                let textArray = realString.split(separator: ".")
+                
+                print(textArray)
+                print(textArray.count)
+
+                for character in realString {
+                    
+                    if character == "." {
+                        countDot = countDot + 1
+                    }
+                }
+            }
+        }
+
+        if countDot == 0 {
+            placehoderLabel.text = ".slack.com"
+        }else if countDot == 1{
+            placehoderLabel.text = ".com"
+        }else{
+            placehoderLabel.text = ""
+        }
+
         return true
     }
 }
