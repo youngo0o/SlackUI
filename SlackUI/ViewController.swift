@@ -75,6 +75,9 @@ extension ViewController: UITextFieldDelegate {
         
         //test
         
+        
+        //test 222
+        
         if countDot == 0 {
             placehoderLabel.text = ".slack.com"
         }else if countDot == 1{
